@@ -1,0 +1,2 @@
+//if we want to make any variable private we just need to start with _ , which are private to the file(cannot be accessed in another file), not just the class.
+//to access them we use getter and setter funcs.
